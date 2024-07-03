@@ -1,2 +1,2 @@
 # my-projects
-A collection of my diverse projects including web development. Each project is in its own folder with detailed documentation.
+A collection of my projects. Each project is in its own folder with detailed documentation. Started on 3-7-24.
